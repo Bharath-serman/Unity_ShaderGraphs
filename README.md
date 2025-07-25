@@ -44,7 +44,7 @@ This repository includes the following Shader Graph effects:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Unity-ShaderGraph-Showcase.git
+   git clone https://github.com/Bharath-serman/Unity_ShaderGraphs.git
 
 2. **Open the project in Unity**  
    Launch Unity and open the project containing the shaders.
