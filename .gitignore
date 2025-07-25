@@ -1,0 +1,73 @@
+# =============== #
+# Unity generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Asset pipeline cache
+[Aa]sset[Cc]ache/
+
+# VS / JetBrains / Rider
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash logs
+sysinfo.txt
+
+# Exclude generated Shader cache
+*.shader.cache
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+
+# Unity Cloud Build
+unitycloud/
+
+# IDE and OS-specific
+.DS_Store
+*.swp
+*.lock
+*.idea/
+*.iml
+
+# Builds
+*.apk
+*.aab
+*.exe
+
+# TextMesh Pro generated files
+TextMesh Pro/Resources/Font Asset Creator Settings.asset
+
+# Uncomment below if you're using Collaborate or Plastic SCM and want to ignore them
+# [Pp]lasticSCM/
+# .collabignore
+# .collab/
+
+# ======================== #
+# Shader Graph specific    #
+# ======================== #
+
+# These are auto-generated and can be safely ignored
+*.g.meta
+*.g.cs
