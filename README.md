@@ -54,7 +54,7 @@ This repository includes the following Shader Graph effects:
    - Assign the **URP Asset** to ensure proper rendering
 
 4. **Explore Shader Effects**  
-   Navigate through each shader in the `Shaders/` folder to see those in action:
+   Navigate through each of the shader in the `Shaders/` folder to see those in action:
    - Dithering  
    - Alpha Clipping  
    - Transparency  
